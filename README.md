@@ -1,2 +1,2 @@
-# Roller
- an expansion of my bachelor's thesis
+# Codename Roller
+ An expansion of my Bachelor's thesis.
